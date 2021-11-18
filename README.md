@@ -2,7 +2,7 @@
 
 - [x]  A basic single English word search function
 
-- [ ] Packet capture function
+- [x] Packet capture function
 
 - [ ] Cache
 
