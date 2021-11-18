@@ -4,7 +4,7 @@
 
 - [x] Packet capture function
 
-- [ ] Cache
+- [x] Cache
 
 - [ ] Traffic statistics
 
